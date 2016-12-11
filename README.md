@@ -13,3 +13,8 @@ Apologizes in advance.
 
 Have... fun! 
 Get those lap times down :-)
+
+__Installation__
+  Copy all .py python files to a user defined directory.
+  Copy the supplied TrueType font to the system default font path.
+  Launch dash_f1.py, eg python dash_f1.py 
